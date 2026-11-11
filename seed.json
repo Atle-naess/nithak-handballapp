@@ -1,0 +1,260 @@
+{
+  "players": [
+    "Testspiller 01",
+    "Testspiller 02",
+    "Testspiller 03",
+    "Testspiller 04",
+    "Testspiller 05",
+    "Testspiller 06",
+    "Testspiller 07",
+    "Testspiller 08",
+    "Testspiller 09",
+    "Testspiller 10",
+    "Testspiller 11",
+    "Testspiller 12",
+    "Testspiller 13",
+    "Testspiller 14"
+  ],
+  "logs": [
+    {
+      "date": "2026-11-11",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Deltok",
+        "Testspiller 02": "Gyldig fravær",
+        "Testspiller 03": "Deltok",
+        "Testspiller 04": "Ikke deltatt",
+        "Testspiller 05": "Sent oppmøte",
+        "Testspiller 06": "Deltok",
+        "Testspiller 07": "Gyldig fravær",
+        "Testspiller 08": "Deltok",
+        "Testspiller 09": "Ikke deltatt",
+        "Testspiller 10": "Sent oppmøte",
+        "Testspiller 11": "Deltok",
+        "Testspiller 12": "Gyldig fravær",
+        "Testspiller 13": "Deltok",
+        "Testspiller 14": "Ikke deltatt"
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Deltok",
+        "Testspiller 02": "Ikke deltatt",
+        "Testspiller 03": "Sent oppmøte",
+        "Testspiller 04": "Deltok",
+        "Testspiller 05": "Gyldig fravær",
+        "Testspiller 06": "Deltok",
+        "Testspiller 07": "Ikke deltatt",
+        "Testspiller 08": "Sent oppmøte",
+        "Testspiller 09": "Deltok",
+        "Testspiller 10": "Gyldig fravær",
+        "Testspiller 11": "Deltok",
+        "Testspiller 12": "Ikke deltatt",
+        "Testspiller 13": "Sent oppmøte",
+        "Testspiller 14": "Deltok"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Sent oppmøte",
+        "Testspiller 02": "Deltok",
+        "Testspiller 03": "Gyldig fravær",
+        "Testspiller 04": "Deltok",
+        "Testspiller 05": "Ikke deltatt",
+        "Testspiller 06": "Sent oppmøte",
+        "Testspiller 07": "Deltok",
+        "Testspiller 08": "Gyldig fravær",
+        "Testspiller 09": "Deltok",
+        "Testspiller 10": "Ikke deltatt",
+        "Testspiller 11": "Sent oppmøte",
+        "Testspiller 12": "Deltok",
+        "Testspiller 13": "Gyldig fravær",
+        "Testspiller 14": "Deltok"
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Gyldig fravær",
+        "Testspiller 02": "Deltok",
+        "Testspiller 03": "Ikke deltatt",
+        "Testspiller 04": "Sent oppmøte",
+        "Testspiller 05": "Deltok",
+        "Testspiller 06": "Gyldig fravær",
+        "Testspiller 07": "Deltok",
+        "Testspiller 08": "Ikke deltatt",
+        "Testspiller 09": "Sent oppmøte",
+        "Testspiller 10": "Deltok",
+        "Testspiller 11": "Gyldig fravær",
+        "Testspiller 12": "Deltok",
+        "Testspiller 13": "Ikke deltatt",
+        "Testspiller 14": "Sent oppmøte"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Ikke deltatt",
+        "Testspiller 02": "Sent oppmøte",
+        "Testspiller 03": "Deltok",
+        "Testspiller 04": "Gyldig fravær",
+        "Testspiller 05": "Deltok",
+        "Testspiller 06": "Ikke deltatt",
+        "Testspiller 07": "Sent oppmøte",
+        "Testspiller 08": "Deltok",
+        "Testspiller 09": "Gyldig fravær",
+        "Testspiller 10": "Deltok",
+        "Testspiller 11": "Ikke deltatt",
+        "Testspiller 12": "Sent oppmøte",
+        "Testspiller 13": "Deltok",
+        "Testspiller 14": "Gyldig fravær"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Deltok",
+        "Testspiller 02": "Gyldig fravær",
+        "Testspiller 03": "Deltok",
+        "Testspiller 04": "Ikke deltatt",
+        "Testspiller 05": "Sent oppmøte",
+        "Testspiller 06": "Deltok",
+        "Testspiller 07": "Gyldig fravær",
+        "Testspiller 08": "Deltok",
+        "Testspiller 09": "Ikke deltatt",
+        "Testspiller 10": "Sent oppmøte",
+        "Testspiller 11": "Deltok",
+        "Testspiller 12": "Gyldig fravær",
+        "Testspiller 13": "Deltok",
+        "Testspiller 14": "Ikke deltatt"
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Deltok",
+        "Testspiller 02": "Ikke deltatt",
+        "Testspiller 03": "Sent oppmøte",
+        "Testspiller 04": "Deltok",
+        "Testspiller 05": "Gyldig fravær",
+        "Testspiller 06": "Deltok",
+        "Testspiller 07": "Ikke deltatt",
+        "Testspiller 08": "Sent oppmøte",
+        "Testspiller 09": "Deltok",
+        "Testspiller 10": "Gyldig fravær",
+        "Testspiller 11": "Deltok",
+        "Testspiller 12": "Ikke deltatt",
+        "Testspiller 13": "Sent oppmøte",
+        "Testspiller 14": "Deltok"
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Sent oppmøte",
+        "Testspiller 02": "Deltok",
+        "Testspiller 03": "Gyldig fravær",
+        "Testspiller 04": "Deltok",
+        "Testspiller 05": "Ikke deltatt",
+        "Testspiller 06": "Sent oppmøte",
+        "Testspiller 07": "Deltok",
+        "Testspiller 08": "Gyldig fravær",
+        "Testspiller 09": "Deltok",
+        "Testspiller 10": "Ikke deltatt",
+        "Testspiller 11": "Sent oppmøte",
+        "Testspiller 12": "Deltok",
+        "Testspiller 13": "Gyldig fravær",
+        "Testspiller 14": "Deltok"
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Gyldig fravær",
+        "Testspiller 02": "Deltok",
+        "Testspiller 03": "Ikke deltatt",
+        "Testspiller 04": "Sent oppmøte",
+        "Testspiller 05": "Deltok",
+        "Testspiller 06": "Gyldig fravær",
+        "Testspiller 07": "Deltok",
+        "Testspiller 08": "Ikke deltatt",
+        "Testspiller 09": "Sent oppmøte",
+        "Testspiller 10": "Deltok",
+        "Testspiller 11": "Gyldig fravær",
+        "Testspiller 12": "Deltok",
+        "Testspiller 13": "Ikke deltatt",
+        "Testspiller 14": "Sent oppmøte"
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Ikke deltatt",
+        "Testspiller 02": "Sent oppmøte",
+        "Testspiller 03": "Deltok",
+        "Testspiller 04": "Gyldig fravær",
+        "Testspiller 05": "Deltok",
+        "Testspiller 06": "Ikke deltatt",
+        "Testspiller 07": "Sent oppmøte",
+        "Testspiller 08": "Deltok",
+        "Testspiller 09": "Gyldig fravær",
+        "Testspiller 10": "Deltok",
+        "Testspiller 11": "Ikke deltatt",
+        "Testspiller 12": "Sent oppmøte",
+        "Testspiller 13": "Deltok",
+        "Testspiller 14": "Gyldig fravær"
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Deltok",
+        "Testspiller 02": "Gyldig fravær",
+        "Testspiller 03": "Deltok",
+        "Testspiller 04": "Ikke deltatt",
+        "Testspiller 05": "Sent oppmøte",
+        "Testspiller 06": "Deltok",
+        "Testspiller 07": "Gyldig fravær",
+        "Testspiller 08": "Deltok",
+        "Testspiller 09": "Ikke deltatt",
+        "Testspiller 10": "Sent oppmøte",
+        "Testspiller 11": "Deltok",
+        "Testspiller 12": "Gyldig fravær",
+        "Testspiller 13": "Deltok",
+        "Testspiller 14": "Ikke deltatt"
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "note": "DEMO – oppdiktet trening",
+      "status": {
+        "Testspiller 01": "Deltok",
+        "Testspiller 02": "Ikke deltatt",
+        "Testspiller 03": "Sent oppmøte",
+        "Testspiller 04": "Deltok",
+        "Testspiller 05": "Gyldig fravær",
+        "Testspiller 06": "Deltok",
+        "Testspiller 07": "Ikke deltatt",
+        "Testspiller 08": "Sent oppmøte",
+        "Testspiller 09": "Deltok",
+        "Testspiller 10": "Gyldig fravær",
+        "Testspiller 11": "Deltok",
+        "Testspiller 12": "Ikke deltatt",
+        "Testspiller 13": "Sent oppmøte",
+        "Testspiller 14": "Deltok"
+      }
+    }
+  ]
+}

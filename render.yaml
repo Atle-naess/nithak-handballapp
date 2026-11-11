@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: nithak-handball-demo
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: DEMO_MODE
+        value: "1"
+      - key: HTTPS
+        value: "1"
+      - key: DATABASE_PATH
+        value: /tmp/nithak_demo.sqlite3
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        sync: false
